@@ -7,7 +7,7 @@
 1. `git add .`해서 모든 파일 올릴 준비(스테이징)하기
 1. `git commit -m "하고 싶은 말"` 쓰고 커밋하기
 1. `git push origin master` 하기  
-만약 저기서 오류가 나면 `git pull origin master` 해보기
+만약 저기서 오류가 나면 `git pull origin master` 해보기(github 사이트에서 뭘 바꿨으면 항상 해 줘야 함!!)
 
 이건 첫 커밋 할 때만 1번부터 쭉 하면 되고, 다음 커밋부터는 `git add` 부터 하면 됨!!
 
