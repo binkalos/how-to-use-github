@@ -8,7 +8,7 @@
 1. `git commit -m "하고 싶은 말"` 쓰고 커밋하기
 1. `git push origin master` 하기  
 만약 저기서 오류가 나면 `git pull origin master` 해보기(github 사이트에서 뭘 바꿨으면 항상 해 줘야 함!!)  
-오류가 난다면 'git push origin +master' 강제 push하기(README.md파일 사라짐 주의)
+오류가 난다면 `git push origin +master` 강제 push하기(README.md파일 사라짐 주의)
 
 이건 첫 커밋 할 때만 1번부터 쭉 하면 되고, 다음 커밋부터는 `git add` 부터 하면 됨!!
 
