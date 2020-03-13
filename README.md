@@ -18,3 +18,8 @@
 1. 바탕화면 등 적당한 로컬 폴더에서 `git clone 레파지토리주소` 하기
 1. 올려야 하는 파일 git clone한 폴더(위 상황에서는 바탕화면)에 다 복사 붙여넣기
 1. `git add .` 부터 하면 됨!
+
+### master->hotfix로 변경 하는 법
+1. git checkout master
+1. git pull origin master
+1. git checkout -b hotfix/name
